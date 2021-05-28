@@ -19,7 +19,7 @@ Just as reference: this is how this building looks in a CAD programm:
 Download `.ifc` file: [Spatial Strcture 3](https://github.com/buildingSMART/Sample-Test-Files/tree/master/IFC%204.3/SpatialStructure_3)
 
 Syntax highlighting in np++:
-![Screenshot np++ IFC](IFCexampleSpacialStructure.png)
+![Screenshot np++ IFC](IFCexampleSpacialStructure-new.png)
 
 # Known issues
 - square brackets inside quotation marks are highlighted as delimiter but should be just text (see line 3 in KIT example screenshot)
