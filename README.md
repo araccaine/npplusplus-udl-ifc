@@ -23,7 +23,7 @@ Syntax highlighting in np++:
 
 # Known issues
 - Square brackets inside quotation marks are highlighted as delimiter but should be just text instead (see line 3 in KIT example screenshot)
-- Most `.ifc` files are quite large. Files with more than ~ 10 Megabyte make np++ really slow with syntax highlighting. If you wnat to look t larger files maybe disable syntax highlighting for `.ifc` first or rename the file befor opening.
+- Most `.ifc` files are quite large. Files with more than ~ 10 Megabyte make np++ really slow with syntax highlighting. If you want to load larger files maybe disable syntax highlighting for `.ifc` first or rename the file before opening it.
 
 # Additional Information
 The Industry Foundation Classes or short [IFC](https://technical.buildingsmart.org/standards/ifc/) is a data model intended to describe architectural, building and construction industry data. One way to exchange these data models is the [STEP Physical File format for IFC](http://www.steptools.com/stds/ifc/) which is a structured text file. It is defined by [ISO 10303-21:2016](https://www.iso.org/standard/63141.html) which is unfortunately non-free. Some basic syntax can be found [here](https://www.loc.gov/preservation/digital/formats/fdd/fdd000448.shtml) and [here](http://www.steptools.com/stds/step/p21e3_final_review.pptx).
