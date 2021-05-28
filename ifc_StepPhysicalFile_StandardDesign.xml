@@ -51,7 +51,7 @@
             <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="E6E6E6" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="16857095" />
+            <WordsStyle name="DELIMITERS1" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="16857863" />
             <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="16781312" />
             <WordsStyle name="DELIMITERS3" fgColor="8000FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="16789506" />
             <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="4" nesting="0" />
