@@ -7,13 +7,13 @@
 # Examples
 
 ## Office building from Karlsruhe Institute of Technology (KIT)
-Download `.ifc` file: [KIT IFC Examples from IfcWiki](https://ifcwiki.org/index.php?title=KIT_IFC_Examples)
+Download `.ifc` file: [KIT IFC Examples from IfcWiki](https://www.ifcwiki.org/index.php?title=KIT_IFC_Examples)
 
 Syntax highlighting in np++:
 ![Screenshot np++ KIT](KITexampleOffice.png)
 
-Just as reference: this is how this building looks in a CAD programm:
-![Office Buidling KIT](https://ifcwiki.org/images/e/e1/Download-Buerogebaeude.png)
+Just as reference: this is how this building looks in a CAD programm:  
+![Office Buidling KIT](https://www.ifcwiki.org/images/e/e1/Download-Buerogebaeude.png)
 
 ## Spatial structure from building smart
 Download `.ifc` file: [Spatial Strcture 3](https://github.com/buildingSMART/Sample-Test-Files/tree/master/IFC%204.3/SpatialStructure_3)
